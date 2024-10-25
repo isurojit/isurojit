@@ -9,7 +9,7 @@ I'm a passionate Frontend Developer based in [Your Location]. My world revolves 
 - 📜 Google AI-Powered Performance Ads Certification from [Google](https://skillshop.credential.net/a600e5a1-62c8-4b34-b518-0ff99a7bedc9)
 - 🎓 Certified Fullstack Developer from [Coding Ninjas](https://students.codingninjas.com/verify/55d48755aab315bd)
 - 🎓 Certified Frontend Developer from [Hong Kong University of Science and Technology](https://www.coursera.org/account/accomplishments/certificate/YZW9RPTVSE72)
-- 🎓 Certified Python Developer from [University of Michigan]([https://online.umich.edu/](https://www.coursera.org/account/accomplishments/specialization/certificate/PVJ3Y7U7SH6F))
+- 🎓 Certified Python Developer from [University of Michigan](https://www.coursera.org/account/accomplishments/specialization/certificate/PVJ3Y7U7SH6F)
 
 ## 🔧 Technologies & Tools
 
