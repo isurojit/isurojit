@@ -1,6 +1,4 @@
 # Hi there! 👋 I'm SURO 👨‍💻
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=isurojit.visitor-badge)
 [![GitHub followers](https://img.shields.io/github/followers/isurojit.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/isurojit?tab=followers)
 
 I'm a passionate Frontend Developer based in [Your Location]. My world revolves around crafting beautiful user experiences using React.js and a plethora of frontend technologies.
