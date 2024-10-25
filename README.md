@@ -22,17 +22,19 @@ I'm a passionate Frontend Developer based in [Your Location]. My world revolves 
 Here are a few projects I've poured my heart into:
 
 - [Ecommerce Website](https://zyozi.com/) 🚀
-- [Portfolio Website](https://gourisevapeeth.org/) 🔥
+- [NGO Website](https://gourisevapeeth.org/) 🔥
 - [API Weather App](https://isuro-weatherapp.netlify.app/) ✨
+- [Service Based Website](https://ayacenter.in/) 🌐
+- [Service Based Website](https://patrarepair.com/)🌱
 
 ## 🌱 I’m Currently Working as Well as Learning
 
-Always on the quest for knowledge! Currently, diving deep into [Current Technology or Framework] 🌐
+Always on the quest for knowledge! Currently, diving deep into [Next.js & MERN Stack] 🌐
 
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/surojit-manna/) 🌐
-- [Portfolio Website](Coming Soon) 🚀
+- [Portfolio Website](https://surojit.xyz/) 🚀
 
 Feel free to reach out if you have any questions, suggestions, or just want to chat! Let's create magic together! ✨
 
